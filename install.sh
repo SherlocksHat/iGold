@@ -1,6 +1,7 @@
 !#/bin/bash
 
 #NOT COMPLETED. Below is a list of tools required to run iGold scripts. 
+on a mac, install python3, pip3, brew, npm
 
 #firebase testing
 sudo pip3 install pyrebase
